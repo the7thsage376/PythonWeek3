@@ -11,4 +11,4 @@ def calculate_discount(price,discount):
 #prompting the user to enter the price and discount
 print(calculate_discount(price=float(input("Enter the price: ")),discount=float(input("Enter the discount: "))))
 # I did it!
-# I can code! :) :)
+# I can code! :) :) :)
